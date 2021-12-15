@@ -1,0 +1,23 @@
+body {
+    background: #ff4a4a;
+    color: #ffffff;
+    font-size: large;
+    font-family: "Georgia", serif;
+}
+
+div {
+    margin: 5%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30pt;
+}
+
+p {
+    font-size: 18pt;
+}
+
+a {
+    color: #ffe1e1;
+}
